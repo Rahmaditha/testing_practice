@@ -41,6 +41,7 @@ ext {
     cardVersion = '1.0.0'
     espressoVersion = '3.4.0'
     fragmentKtxVersion = '1.4.0'
+    fragment_version = '1.6.2'
     junitVersion = '4.13.2'
     materialVersion = '1.4.0'
     recyclerViewVersion = '1.2.1'
